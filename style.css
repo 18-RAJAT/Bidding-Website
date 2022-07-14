@@ -1,0 +1,149 @@
+*
+
+
+{
+
+margin: 0px;	
+outline: 0px;
+padding: 0px;
+
+}
+
+/* body{
+background:url(https://img.freepik.com/free-vector/auctioneer-with-hammer-selling-artwork-stage-buyers-holding-signs-with-offers-flat-vector-illustration-auction-trade-bidding_74855-13015.jpg?w=996&t=st=1657746507~exp=1657747107~hmac=bbb4880f7a16a145f669142cf605c1bccd216c6cfe9500a348fa836c60f005a4)opacity:0.5;
+} */
+body
+{
+	background-color: #f2f2f2;
+	background:url(https://www.pinclipart.com/pindetail/iiomwwb_free-png-download-colorful-waves-png-png-images/);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-blend-mode: multiply;
+	/* background-color: #f2f2f2;
+	 */
+}
+#logo
+{
+
+display:block;
+height: 200px;
+width: 200px;	
+	
+}
+
+	
+.add_buyer, .add_buyer_form, .add_item_form, .delete_buyer_form, .delete_item_form, .login_form, .relogin_form
+
+{
+ 
+	margin-left: 500px;
+
+}
+
+
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: #04AA6D;
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+input[type=text] {
+  background-color: #3CBC8D;
+  color: white;
+}
+  
+
+
+.label
+{
+        
+	display: inline-block;
+        font-weight: bold;
+	width: 130px;
+	
+}	
+   
+  .text, .password
+  {
+
+  margin-top: 10px;	
+	
+  } 
+
+ 
+ 
+.submit
+{
+	margin-top: 5px;
+}
+	.logout
+	{
+ 
+height: 40px;
+	width: 7.5%;
+position: absolute;
+top: 0px;
+right: 0px;	
+	}
+	
+	.button {
+box-shadow: 3px 3px 5px grey;
+	  font: bold 11px Arial;
+	  text-decoration: none;
+	  text-align: center;
+	  background-color: #EEEEEE;
+	  color: #333333;
+	  padding: 20px 6px 6px;
+	  border-top: 1px solid #CCCCCC;
+	  border-right: 1px solid #333333;
+	  border-bottom: 1px solid #333333;
+	  border-left: 1px solid #CCCCCC;
+	}
+ 
+.item
+{
+	border: 3px solid seagreen;
+        font-weight: bold;
+	display: inline-block;
+	margin: 10px;
+	width: 200px;
+}
+.item_row
+{	border-top: 2px solid seagreen;
+ 
+	width: 100%;
+}
+
+
+
+.item_img
+{
+	
+	height: 150px;
+	width: 150px;
+}
+
+
+.link
+{
+	text-decoration: none;
+	color: seagreen;
+}
+
+	#exit_title
+	{
+
+position:absolute;		
+left: 35%;
+top: 20%;		
+	}
+
+ 
